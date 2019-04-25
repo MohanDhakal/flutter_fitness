@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "294291528135",
+    "firebase_url": "https://fit-nepal.firebaseio.com",
+    "project_id": "fit-nepal",
+    "storage_bucket": "fit-nepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294291528135:android:e5674c2d9b5da462",
+        "android_client_info": {
+          "package_name": "com.mohandkl.flutter_new_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cHm9EM1FJYTzDLrWHo4hmyzPkOS4O8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294291528135-6murkk0qsk7g5osbe2dj82a41hqqe51c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
